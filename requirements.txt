@@ -3,3 +3,4 @@ gridstatusio
 pandas
 numpy
 matplotlib
+cvxpy
