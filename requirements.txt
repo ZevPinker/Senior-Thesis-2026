@@ -1,2 +1,5 @@
 python-dotenv
 gridstatusio
+pandas
+numpy
+matplotlib
